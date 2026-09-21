@@ -9,13 +9,13 @@ Projekt realizowany w ramach **OpenStreetMap Polska**, mający na celu weryfikac
 
 ## Harmonogram prac
 
- Etap / Zadanie | Czas pracy 
- Analiza i projektowanie repozytorium - 2h 
- Tworzenie i konfiguracja - 1h 
- Przygotowywanie struktury projektu - 1h 
- Implementacja funkcjonalności - 4h 
- Testowanie i dokumentacja - 1h 
- Finalizacja repozytorium - 1h
+ * Etap / Zadanie | Czas pracy 
+ * Analiza i projektowanie repozytorium - 2h 
+ * Tworzenie i konfiguracja - 1h 
+ * Przygotowywanie struktury projektu - 1h 
+ * Implementacja funkcjonalności - 4h 
+ * Testowanie i dokumentacja - 1h 
+ * Finalizacja repozytorium - 1h
 
 ## Struktura repozytorium
 
