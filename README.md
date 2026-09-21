@@ -3,7 +3,7 @@ Repozytorium zawiera dane warstwy danych przestrzennych “Zamki i dwory obronne
 
 Przy jej tworzeniu wykorzystano jako podstawę ogólnodostępne informację na temat takich obiektów na terenie kraju w tym zasoby cyfrowe rejestru zabytków nieruchomych i archeologicznych udostępniane przez Narodowy Instytut Dziedzictwa. Dane zawierają lokalizację walorów turystycznych zgodnie z przyjętymi definicjami dostępnymi w dokumentacji technicznej warstwy. Wszystkie lokalizacje zostały zweryfikowane przez wolontariuszy z wykorzystaniem metod teledetekcji.
 
-Szczegółowy opis bazy danych znajdą Państwo w katalogu docs
+Szczegółowy opis bazy danych znajdą Państwo w katalogu [docs](/docs)
 
 Otwarty charakter bazy oznacza, że będzie ona ciągle rozwijana i będzie ewoluować.
 
